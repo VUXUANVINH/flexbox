@@ -1,0 +1,106 @@
+*/ {
+  padding: 0;
+  margin: 0;
+}
+body {
+  position: center;
+}
+.classes-link:hover {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.classes-link:visited {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.maincontainer {
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 1300px;
+  color: aliceblue;
+  height: 500px;
+  margin-bottom: 15px;
+}
+.maincontent {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 450px;
+}
+.img1 {
+  width: 360px;
+  height: 300px;
+}
+main {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: 0px 20px 0px 20px;
+}
+.classescontent {
+  height: 430px;
+  width: 350px;
+  padding: 0px 15px 0px 15px;
+  border: 2px groove rgb(130, 203, 236);
+}
+.footercontainer {
+  margin-top: 15 0px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 1300px;
+  height: 600px;
+  background-color: rgb(32, 90, 145);
+  color: aliceblue;
+}
+footer {
+  padding-top: 48px;
+  padding-bottom: 48px;
+  width: 1285px;
+  height: 604px;
+  margin: 0px;
+  margin-right: 0px;
+}
+.decription-content {
+  display: flex;
+}
+.content {
+  display: flex;
+  width: 321.25px;
+  height: 620px;
+  flex-direction: column;
+  position: relative;
+  padding: 0px 15px 0px 15px;
+}
+.content-introduce {
+  display: flex;
+  flex-direction: column;
+  justify-items: auto;
+}
+.icon {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: flex-start;
+  padding-left: 0px;
+  width: 180px;
+}
+.img2 {
+  height: 32px;
+  width: 32px;
+}
+.link2:hover {
+  color: aliceblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.link2:visited {
+  color: aliceblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.link2:link {
+  color: aliceblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.rate {
+  display: flex;
+  justify-content: space-between;
+}

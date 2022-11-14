@@ -1,0 +1,29 @@
+*/ {
+  padding: 0;
+  margin: 0;
+}
+img {
+  height: 320px;
+  width: 500px;
+}
+.content {
+  font-size: larger;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 50px;
+}
+.start {
+  position: middle;
+  background-color: rgb(83, 83, 233);
+  color: white;
+  margin: 15px 1600px 15px 50px;
+  padding: 10px 30px 10px 30px;
+  border: 2px solid rgb(83, 83, 233);
+  border-radius: 3px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+}
+a:hover,
+:visited {
+  color: aliceblue;
+}
